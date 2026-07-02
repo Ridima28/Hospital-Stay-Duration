@@ -16,9 +16,10 @@ These results suggest the model captures part of the pattern in the data, while 
 
 ## Dataset
 
-- **Source:** Public real-world healthcare dataset
+- **Source:** UC Irvine 
 - **Target variable:** `time_in_hospital`
 - **Problem type:** Supervised regression
+- **Link:** https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 
 The dataset contains patient-related features that can be used to estimate how long a patient stays in the hospital.
 
